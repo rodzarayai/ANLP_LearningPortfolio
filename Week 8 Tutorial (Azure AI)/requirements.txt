@@ -1,0 +1,7 @@
+gradio
+streamlit
+openai
+python-dotenv>=1.0.0
+azure-search-documents==11.6.0b1
+azure-storage-blob
+azure-identity
